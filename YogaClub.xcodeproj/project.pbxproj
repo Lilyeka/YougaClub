@@ -7,21 +7,51 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		615B71F01ED37C88003DB6E9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 615B71EF1ED37C88003DB6E9 /* ViewController.swift */; };
+		615B71F21ED37FAD003DB6E9 /* TabTwoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 615B71F11ED37FAD003DB6E9 /* TabTwoViewController.swift */; };
+		615B71F41ED38702003DB6E9 /* TabThreeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 615B71F31ED38702003DB6E9 /* TabThreeViewController.swift */; };
+		615B71F61ED3A128003DB6E9 /* SettingsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 615B71F51ED3A128003DB6E9 /* SettingsTableViewController.swift */; };
+		615B71F81ED3A293003DB6E9 /* SettingsTableViewCell1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 615B71F71ED3A293003DB6E9 /* SettingsTableViewCell1.swift */; };
+		61BE017E1ECAE8E7000C92DF /* DeluxeButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61BE017D1ECAE8E7000C92DF /* DeluxeButton.swift */; };
+		61BE01801ECC4B6E000C92DF /* Food.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61BE017F1ECC4B6E000C92DF /* Food.swift */; };
+		61BE01821ECD6772000C92DF /* UserSettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61BE01811ECD6772000C92DF /* UserSettingsViewController.swift */; };
+		61BE01841ECEEC26000C92DF /* currentInfoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61BE01831ECEEC26000C92DF /* currentInfoTableViewController.swift */; };
+		61BE01861ED0E735000C92DF /* CustomTableViewCell1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61BE01851ED0E735000C92DF /* CustomTableViewCell1.swift */; };
+		61BE01881ED0EEEA000C92DF /* CustomTableViewCell2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61BE01871ED0EEEA000C92DF /* CustomTableViewCell2.swift */; };
+		61BE018A1ED0EF08000C92DF /* CustomTableViewCell3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61BE01891ED0EF08000C92DF /* CustomTableViewCell3.swift */; };
+		61BE018C1ED29F5F000C92DF /* Event + Article + Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61BE018B1ED29F5F000C92DF /* Event + Article + Video.swift */; };
 		61F7B2361EC96AF600674EC7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61F7B2351EC96AF600674EC7 /* AppDelegate.swift */; };
-		61F7B2381EC96AF600674EC7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61F7B2371EC96AF600674EC7 /* ViewController.swift */; };
 		61F7B23B1EC96AF600674EC7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61F7B2391EC96AF600674EC7 /* Main.storyboard */; };
 		61F7B23D1EC96AF600674EC7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61F7B23C1EC96AF600674EC7 /* Assets.xcassets */; };
 		61F7B2401EC96AF600674EC7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61F7B23E1EC96AF600674EC7 /* LaunchScreen.storyboard */; };
+		61F7B2481EC96C9500674EC7 /* HorisontalScrollingImg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61F7B2471EC96C9500674EC7 /* HorisontalScrollingImg.swift */; };
+		61F7B26C1EC97B4600674EC7 /* OldViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61F7B26B1EC97B4600674EC7 /* OldViewController.swift */; };
+		61F7B26E1EC97B9000674EC7 /* HomePageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61F7B26D1EC97B9000674EC7 /* HomePageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		615B71EF1ED37C88003DB6E9 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		615B71F11ED37FAD003DB6E9 /* TabTwoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabTwoViewController.swift; sourceTree = "<group>"; };
+		615B71F31ED38702003DB6E9 /* TabThreeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabThreeViewController.swift; sourceTree = "<group>"; };
+		615B71F51ED3A128003DB6E9 /* SettingsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsTableViewController.swift; sourceTree = "<group>"; };
+		615B71F71ED3A293003DB6E9 /* SettingsTableViewCell1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsTableViewCell1.swift; sourceTree = "<group>"; };
+		61BE017D1ECAE8E7000C92DF /* DeluxeButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DeluxeButton.swift; sourceTree = "<group>"; };
+		61BE017F1ECC4B6E000C92DF /* Food.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Food.swift; sourceTree = "<group>"; };
+		61BE01811ECD6772000C92DF /* UserSettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserSettingsViewController.swift; sourceTree = "<group>"; };
+		61BE01831ECEEC26000C92DF /* currentInfoTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = currentInfoTableViewController.swift; sourceTree = "<group>"; };
+		61BE01851ED0E735000C92DF /* CustomTableViewCell1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell1.swift; sourceTree = "<group>"; };
+		61BE01871ED0EEEA000C92DF /* CustomTableViewCell2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell2.swift; sourceTree = "<group>"; };
+		61BE01891ED0EF08000C92DF /* CustomTableViewCell3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell3.swift; sourceTree = "<group>"; };
+		61BE018B1ED29F5F000C92DF /* Event + Article + Video.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Event + Article + Video.swift"; sourceTree = "<group>"; };
 		61F7B2321EC96AF600674EC7 /* YogaClub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YogaClub.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		61F7B2351EC96AF600674EC7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		61F7B2371EC96AF600674EC7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		61F7B23A1EC96AF600674EC7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		61F7B23C1EC96AF600674EC7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		61F7B23F1EC96AF600674EC7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		61F7B2411EC96AF600674EC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		61F7B2471EC96C9500674EC7 /* HorisontalScrollingImg.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HorisontalScrollingImg.swift; sourceTree = "<group>"; };
+		61F7B26B1EC97B4600674EC7 /* OldViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OldViewController.swift; sourceTree = "<group>"; };
+		61F7B26D1EC97B9000674EC7 /* HomePageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomePageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +68,14 @@
 		61F7B2291EC96AF600674EC7 = {
 			isa = PBXGroup;
 			children = (
+				615B71F51ED3A128003DB6E9 /* SettingsTableViewController.swift */,
+				615B71F71ED3A293003DB6E9 /* SettingsTableViewCell1.swift */,
+				61BE01831ECEEC26000C92DF /* currentInfoTableViewController.swift */,
+				61BE01851ED0E735000C92DF /* CustomTableViewCell1.swift */,
+				61BE01871ED0EEEA000C92DF /* CustomTableViewCell2.swift */,
+				61BE01891ED0EF08000C92DF /* CustomTableViewCell3.swift */,
+				61BE017F1ECC4B6E000C92DF /* Food.swift */,
+				61BE018B1ED29F5F000C92DF /* Event + Article + Video.swift */,
 				61F7B2341EC96AF600674EC7 /* YogaClub */,
 				61F7B2331EC96AF600674EC7 /* Products */,
 			);
@@ -55,7 +93,14 @@
 			isa = PBXGroup;
 			children = (
 				61F7B2351EC96AF600674EC7 /* AppDelegate.swift */,
-				61F7B2371EC96AF600674EC7 /* ViewController.swift */,
+				61F7B26B1EC97B4600674EC7 /* OldViewController.swift */,
+				615B71EF1ED37C88003DB6E9 /* ViewController.swift */,
+				615B71F11ED37FAD003DB6E9 /* TabTwoViewController.swift */,
+				615B71F31ED38702003DB6E9 /* TabThreeViewController.swift */,
+				61F7B26D1EC97B9000674EC7 /* HomePageViewController.swift */,
+				61F7B2471EC96C9500674EC7 /* HorisontalScrollingImg.swift */,
+				61BE01811ECD6772000C92DF /* UserSettingsViewController.swift */,
+				61BE017D1ECAE8E7000C92DF /* DeluxeButton.swift */,
 				61F7B2391EC96AF600674EC7 /* Main.storyboard */,
 				61F7B23C1EC96AF600674EC7 /* Assets.xcassets */,
 				61F7B23E1EC96AF600674EC7 /* LaunchScreen.storyboard */,
@@ -137,8 +182,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				61F7B2381EC96AF600674EC7 /* ViewController.swift in Sources */,
+				61F7B26C1EC97B4600674EC7 /* OldViewController.swift in Sources */,
+				615B71F41ED38702003DB6E9 /* TabThreeViewController.swift in Sources */,
+				61F7B2481EC96C9500674EC7 /* HorisontalScrollingImg.swift in Sources */,
+				61BE018A1ED0EF08000C92DF /* CustomTableViewCell3.swift in Sources */,
+				61BE017E1ECAE8E7000C92DF /* DeluxeButton.swift in Sources */,
+				61BE018C1ED29F5F000C92DF /* Event + Article + Video.swift in Sources */,
+				61BE01881ED0EEEA000C92DF /* CustomTableViewCell2.swift in Sources */,
+				61BE01861ED0E735000C92DF /* CustomTableViewCell1.swift in Sources */,
+				61BE01801ECC4B6E000C92DF /* Food.swift in Sources */,
+				615B71F01ED37C88003DB6E9 /* ViewController.swift in Sources */,
+				615B71F81ED3A293003DB6E9 /* SettingsTableViewCell1.swift in Sources */,
+				615B71F21ED37FAD003DB6E9 /* TabTwoViewController.swift in Sources */,
 				61F7B2361EC96AF600674EC7 /* AppDelegate.swift in Sources */,
+				615B71F61ED3A128003DB6E9 /* SettingsTableViewController.swift in Sources */,
+				61BE01841ECEEC26000C92DF /* currentInfoTableViewController.swift in Sources */,
+				61F7B26E1EC97B9000674EC7 /* HomePageViewController.swift in Sources */,
+				61BE01821ECD6772000C92DF /* UserSettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,7 +326,7 @@
 				DEVELOPMENT_TEAM = 9A9LR934E6;
 				INFOPLIST_FILE = YogaClub/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.YogaClub;
+				PRODUCT_BUNDLE_IDENTIFIER = com.YogaClubApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -279,7 +339,7 @@
 				DEVELOPMENT_TEAM = 9A9LR934E6;
 				INFOPLIST_FILE = YogaClub/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.YogaClub;
+				PRODUCT_BUNDLE_IDENTIFIER = com.YogaClubApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -304,6 +364,7 @@
 				61F7B2461EC96AF600674EC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
